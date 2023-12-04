@@ -13,7 +13,6 @@ Welcome to the repository for *38 Dunaevsogo, Bucha, UA*, a sleek, responsive, a
 
 - **React**: For building a dynamic and interactive user interface.
 - **CSS3 and HTML5**: For styling and markup.
-- **[Additional Technologies]**: [Description of other technologies used, if any, like Redux, Node.js, etc.]
 
 ## Installation and Setup
 
