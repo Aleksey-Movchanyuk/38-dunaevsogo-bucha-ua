@@ -1,24 +1,27 @@
 import React from 'react';
+
+import Header from './components/Header';
+import Footer from './components/Footer';
+import HeroSection from './components/HeroSection';
+import Overview from './components/Overview';
+import Gallery from './components/Gallery';
+import Location from './components/Location';
+import ContactForm from './components/ContactForm';
+
+
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Bucha House
-        </a>
-      </header>
+    <div>
+      <Header />
+      <HeroSection />
+      <Overview />
+      <Gallery />
+      <Location />
+      <ContactForm />
+      <Footer />
     </div>
   );
 }
