@@ -2,8 +2,8 @@ import React from 'react';
 
 const Location: React.FC = () => {
   // Replace the following with your property's latitude and longitude
-  const latitude = 40.7128;
-  const longitude = -74.0060;
+  //const latitude = 40.7128;
+  //const longitude = -74.0060;
 
   // Function to handle map initialization (e.g., Google Maps or OpenStreetMap)
   const initMap = () => {
