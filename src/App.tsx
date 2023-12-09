@@ -8,8 +8,6 @@ import Gallery from './components/Gallery';
 import Location from './components/Location';
 import ContactForm from './components/ContactForm';
 
-
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
